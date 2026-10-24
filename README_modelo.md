@@ -1,14 +1,14 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome:**  Mafalda Pinto
+- **Número:**  a22603995
+- **Turma:**  01
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+De momento, fiz o ficheiro large_image.png ser um ponteiro LFS.
 
 ---
 
