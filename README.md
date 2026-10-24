@@ -8,7 +8,7 @@ Aplicar os conhecimentos de Git aprendidos até agora, explorando o uso de **bra
 
 ## Fazer Clone do Repositório
 
-Clona o repositório base para o teu computador: MUAHAHAHAHAHAH
+Clona o repositório base para o teu computador: MUAHAHAHAHAHAH 
 
 ```bash
 git clone https://github.com/rafaeldavidjose/IC_aula_8_P_exercicios.git
@@ -36,7 +36,7 @@ Confirma que ficou correto:
 git remote -v
 ```
 
-Deves ver o URL do teu repositório nas linhas `fetch` e `push`. A partir daqui, o `origin` é o teu **remoto pessoal**, e é nele que deves enviar e sincronizar as tuas alterações.
+Deves ver o URL do teu repositório nas linhas `fetch` e `push`. A partir daqui, o `origin` é o teu **remoto pessoal**, e é nele que deves enviar e sincronizar as tuas alterações. Alteração secreta.
 
 ---
 
