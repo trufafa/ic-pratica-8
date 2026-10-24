@@ -8,7 +8,7 @@ Aplicar os conhecimentos de Git aprendidos até agora, explorando o uso de **bra
 
 ## Fazer Clone do Repositório
 
-Clona o repositório base para o teu computador:
+Clona o repositório base para o teu computador: MUAHAHAHAHAHAH
 
 ```bash
 git clone https://github.com/rafaeldavidjose/IC_aula_8_P_exercicios.git
