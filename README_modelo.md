@@ -9,6 +9,7 @@
 ## Alterações realizadas
 
 De momento, fiz o ficheiro large_image.png ser um ponteiro LFS.
+Linha alterada, mas na main.
 
 ---
 
